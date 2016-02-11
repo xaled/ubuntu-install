@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=true
+Icon[en_US]=/home/xaled/Pictures/icons/torbrowser.png
+Exec=bash /home/xaled/apps/scripts/docker-torbrowser.sh
+Name[en_US]=docker torbrowser
+Name=docker torbrowser
+Icon=/home/xaled/Pictures/icons/torbrowser.png

@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=true
+Icon[en_US]=/home/xaled/Pictures/icons/vnc.png
+Exec=bash /home/xaled/apps/scripts/docker-vnc.sh
+Name[en_US]=docker vnc
+Name=docker vnc
+Icon=/home/xaled/Pictures/icons/vnc.png

@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Icon[en_US]=/home/xaled/apps/burp.png
+Exec=judo burp /home/xaled/apps/burpsuite_free_v1.6.jar
+Name[en_US]=Burpsuite
+Name=Burpsuite
+Icon=/home/xaled/apps/burp.png

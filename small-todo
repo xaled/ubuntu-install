@@ -1,17 +1,19 @@
 - data:
-	- home structure:
-		-cp -R
-		-ln -s
-    - scripts
-	- launchers
+	x home structure:
+		x cp -R
+		x ln -s
+    x scripts
+	x launchers
 x apt-getinstalls
 x oldjudo install script
-- install from files:
-	- eclipse *2
-	- pycharm
-	- netbeans php
-	- virtualbox
-	- android studio
-- docker script
+x install from files:
+	x eclipse *2
+	x pycharm
+	x netbeans php
+	x virtualbox
+	x android studio
+x docker script
+- create launchers script
 - ubuntu clean vm
-- test install script
+- test
+- other docker builds

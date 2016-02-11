@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Icon[en_US]=applications-email-panel
+Name[en_US]=Firefox Perso Analyse
+Exec=judo perso firefox "https://192.168.6.102/"
+Name=Firefox Perso
+Icon=/home/xaled/Pictures/PadLock.png

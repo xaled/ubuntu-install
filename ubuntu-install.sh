@@ -30,13 +30,42 @@ sudo apt-get install oracle-java8-installer -s
 
 #install dev
 sudo apt-get install bless atom git-cola -s
-#other devs eclipse jee, eclipse c/c++, netbeans php, pycharm, android studio
 
-#install burp
-
-#install Virutalbox
-#wget http://download.virtualbox.org/virtualbox/5.0.14/virtualbox-5.0_5.0.14-105127~Ubuntu~wily_i386.deb
-#sudo dpkg -i virtualbox-5.0_5.0.14-105127~Ubuntu~wily_i386.deb
 
 #install judo
 bash oldjudo/install.sh
+
+#home sturcture
+bash homestruct.sh
+
+
+
+
+#other devs eclipse jee, eclipse c/c++, netbeans php, pycharm, android studio
+echo "install eclipse, pycharm & android studio..."
+cp -R dw/eclipse-jee ~/apps/
+cp -R dw/eclipse-cpp ~/apps/
+cp -R dw/pycharm ~/apps/
+cp -R dw/android-studio ~/apps/
+echo "installing netbeans php..."
+./dw/netbeans-php.sh
+#TODO: create launchers
+
+#install burp & sqlmap
+echo "install burp & sqlmap & other security related..."
+cp dw/burp.jar apps/
+git clone "https://github.com/sqlmapproject/sqlmap.git" ~/apps/sqlmap
+git clone "https://github.com/fuzzdb-project/fuzzdb" ~/apps/fuzzdb
+#TODO: create launchers
+
+
+
+#install Virutalbox
+echo "installing virtualbox..."
+sudo dbkg -i dw/virtualbox.deb
+VBoxManage extpack dw/virtualbox.vbox-extpack
+
+
+
+#docker script
+bash docker.sh
