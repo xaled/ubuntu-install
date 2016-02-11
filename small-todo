@@ -1,0 +1,17 @@
+- data:
+	- home structure:
+		-cp -R
+		-ln -s
+    - scripts
+	- launchers
+x apt-getinstalls
+x oldjudo install script
+- install from files:
+	- eclipse *2
+	- pycharm
+	- netbeans php
+	- virtualbox
+	- android studio
+- docker script
+- ubuntu clean vm
+- test install script
