@@ -2,7 +2,7 @@
 
 #Docker script
 docker pull jess/tor-browser
-docker pull ubunut
+docker pull ubuntu
 docker pull centos
 docker pull mysql
 docker pull tomcat7
