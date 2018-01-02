@@ -40,15 +40,15 @@
 
 ## Xubuntu Settings
 1. **prefered applications:**
-	![prefered apps](images/Preferred Applications_002.png)
+	![prefered apps](images/Preferred%20Applications_002.png)
 	`sudo apt-get remove mousepad`
 1. **regional settings:**
 	Language Support > Regional Formats > English (Iremand) > Applu System-Wide
 1. **workspaces:**
 	workspaces settings: number of workspaces 4
 	workspaces switchers: number of rows 2
-	![workspaces_tweaks](images/Window Manager Tweaks_003.png)
-	![workspaces_windows_manager](images/Window Manager_004.png)
+![workspaces_tweaks](images/Window%20Manager%20Tweaks_003.png)
+![workspaces_windows_manager](images/Window%20Manager_004.png)
 1. **panel and launchers:**
 	[panels.md](panels.md)
 1. **clock settings:**
@@ -59,7 +59,7 @@
 	1. super+D, super:
 		keep Ctrl+Alt+D and Ctrl+Esc
 	1. arabic layout + hotkey:
-		![Keyboard_005.png](images/Keyboard_005.png)
+![Keyboard_005.png](images/Keyboard_005.png)
 1. **wallpapers and avatar:**
 	?
 1. **terminal:**
