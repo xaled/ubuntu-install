@@ -5,7 +5,21 @@
 ## Software installation
 1. **install script:**
 	execute install script
-`code1`
+	```shell
+	sudo apt-get update;
+	sudo apt-get upgrade;
+	sudo apt-get install curl nmap arp-scan docker.io tor openssh-server bro python-pip tree git youtube-dl wine-stable winetricks unace unrar \
+                     zip unzip p7zip-full p7zip-rar sharutils rar uudeview mpack arj cabextract file-roller \
+                     gparted meld baobab regexxer freeplane  shutter  anki  sqlitebrowser remmina keepassx pyrenamer  bless ghex git-cola \
+                     vlc cheese  ubuntu*wallpapers* xubuntu*wallpapers*  chromium-browser ubuntu-restricted-extras \
+                     gimp gimp-data gimp-plugin-registry gimp-data-extras encfs gedit-plugins gedit-source-code-browser-plugi \
+                     python3-pip quiterss lynx python3-dev nemo libreoffice-impress gnome-terminal python-requests python3-requests
+
+	#interactive
+	sudo apt-get install ttf-mscorefonts-installer wireshark encfs 
+	
+	#java
+	```
 1. **fix wifi dongle problem:**
 	 edit  /etc/NetworkManager/NetworkManager.conf
 		[device]
