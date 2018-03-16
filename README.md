@@ -12,13 +12,16 @@
                      zip unzip p7zip-full p7zip-rar sharutils rar uudeview mpack arj cabextract file-roller \
                      gparted meld baobab regexxer freeplane  shutter  anki  sqlitebrowser remmina keepassx pyrenamer  bless ghex git-cola \
                      vlc cheese  ubuntu*wallpapers* xubuntu*wallpapers*  chromium-browser ubuntu-restricted-extras \
-                     gimp gimp-data gimp-plugin-registry gimp-data-extras encfs gedit-plugins gedit-source-code-browser-plugi \
-                     python3-pip quiterss lynx python3-dev nemo libreoffice-impress gnome-terminal python-requests python3-requests
+                     gimp gimp-data gimp-plugin-registry gimp-data-extras encfs gedit-plugins gedit-source-code-browser-plugin \
+                     python3-pip quiterss lynx python3-dev nemo libreoffice-impress gnome-terminal python-requests python3-requests gnome-system-monitor 
 
 	#interactive
 	sudo apt-get install ttf-mscorefonts-installer wireshark encfs 
 	
 	#java
+	sudo add-apt-repository ppa:webupd8team/java
+	sudo apt-get update
+	sudo apt-get install oracle-java8-installer
 	```
 1. **fix wifi dongle problem:**
 	 edit  /etc/NetworkManager/NetworkManager.conf
@@ -51,6 +54,7 @@
 	1. Splunk
 			 sudo  useradd splunk
 		 copy splunk dir and splunks ( splunk_base, run_splunk.sh)
+	1. Remarkable (MD editor)
 
 ## Xubuntu Settings
 1. **prefered applications:**

@@ -9,13 +9,16 @@
 ![Directory_Menu_Firefox.png](images/Directory_Menu_Firefox.png)
 ![Window Buttons_010.png](images/Window%20Buttons_010.png)
 ![panel0_separator.png](images/panel0_separator.png)
-
+![Menu.png](images/Menu.png)
 
 
 ## panel1
 ![xfce4-panel_017.png](images/xfce4-panel_017.png)
-![Panel_08.png](images/Panel_08.png)
+![Panel_008.png](images/Panel_08.png)
 ![Whisker Menu_007.png](images/Whisker%20Menu_007.png)
 ![Window Buttons_010.png](images/Window%20Buttons_010.png)
 ![panel1_seperator.png](images/panel1_seperator.png)
 ![Workspace Switcher_013.png](images/Workspace%20Switcher_013.png)
+
+
+
