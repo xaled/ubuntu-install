@@ -14,7 +14,7 @@
 
 ## panel1
 ![xfce4-panel_017.png](images/xfce4-panel_017.png)
-![Panel_008.png](images/Panel_08.png)
+![Panel_008.png](images/Panel_008.png)
 ![Whisker Menu_007.png](images/Whisker%20Menu_007.png)
 ![Window Buttons_010.png](images/Window%20Buttons_010.png)
 ![panel1_seperator.png](images/panel1_seperator.png)
