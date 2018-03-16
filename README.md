@@ -13,7 +13,7 @@
                      gparted meld baobab regexxer freeplane  shutter  anki  sqlitebrowser remmina keepassx pyrenamer  bless ghex git-cola \
                      vlc cheese  ubuntu*wallpapers* xubuntu*wallpapers*  chromium-browser ubuntu-restricted-extras \
                      gimp gimp-data gimp-plugin-registry gimp-data-extras encfs gedit-plugins gedit-source-code-browser-plugin \
-                     python3-pip quiterss lynx python3-dev nemo libreoffice-impress gnome-terminal python-requests python3-requests gnome-system-monitor 
+                     python3-pip quiterss lynx python3-dev nemo libreoffice-impress gnome-terminal python-requests python3-requests gnome-system-monitor parcellite
 
 	#interactive
 	sudo apt-get install ttf-mscorefonts-installer wireshark encfs 
