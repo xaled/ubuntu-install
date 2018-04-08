@@ -50,7 +50,7 @@
 	1. VirtualBox
 			sudo dpkg -i "virtualbox-5.2_5.2.4-119785~Ubuntu~zesty_amd64.deb"
 		install  extension pack and create hostonly network.
-	1. PyCharm
+	1. PyCharm (+ change keymap to gnome default File>Settings>Keymap)
 	1. Splunk
 			 sudo  useradd splunk
 		 copy splunk dir and splunks ( splunk_base, run_splunk.sh)
@@ -76,7 +76,7 @@
 1. **Hotkeys:**
 	1. super+D, super:
 		keep Ctrl+Alt+D and Ctrl+Esc
-	1. arabic layout + hotkey:
+	1. arabic layout + hotkey (Super + Space instead of Alt + Shift):
 ![Keyboard_005.png](images/Keyboard_005.png)
 1. **wallpapers and avatar:**
 	?
