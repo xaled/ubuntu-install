@@ -1,4 +1,9 @@
 # ubuntu install
+## Pre-Install
+1. **Backup:**
+	1. home
+	1. /etc/fstab
+	1. namlat nodes config
 ## Backup MBR
 - backup HDDs MBRs
 `# dd if=/dev/sda of=mbr_sda.bkp bs=512 count=1`
@@ -40,8 +45,8 @@
 		1. iso,  pdfs, vms etc.. in Downloads
 1. **kutils:**
 1. **namlat or rss-stuff:**
-1. **ghosty-git:**
-	[install ghosty-git](https://github.com/xaled/ghosty-git/blob/master/INSTALL.md "install ghosty-git")
+1. **xgit:**
+	1. install xgit (git+ssh//HOST/repos/xgit.git) 
 1. **judo:**
 	[install judo](# "install judo")
 1. **autossh:**
