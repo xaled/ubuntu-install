@@ -1,0 +1,36 @@
+pre:
+search bash history for new installs
+
+installation:
+remove pyrenammer
+remove interactive pacakges from first command
+ttf-mscorefonts to font archive
+remove fix wifi dongle problem
+homestruct?
+remove kutil, judo, autossh, remarkable
+script to install xgit, easilyb, namat
+ubuntu-templates
+squid and squid config
+restart
+nemo problem with xubuntu desktop
+ln -s Desktop Downloads
+
+
+customization
+windows maanger screenshot is wrong+
+remoeve scripts from panels?
+panels: new launcher instead of directory menu
+keyboard > application shortcuts > mousepad to gedit
+whisker menu ctrl-esc
+shortcuts keep defaults
+hires config
+desktop icons
+
+
+restore
+create ssh keys
+firefox profiles
+firefox profile update command?
+
+
+
