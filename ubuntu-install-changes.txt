@@ -25,6 +25,7 @@ whisker menu ctrl-esc
 shortcuts keep defaults
 hires config
 desktop icons
+Alt + right-click + drag.
 
 
 restore
@@ -33,4 +34,20 @@ firefox profiles
 firefox profile update command?
 
 
+hidpi
+appearence > fonts > custom dpi setting: 110
+panel width 28
+firefox: layout.css.devPixelsPerPx > 1.1
+pycharm:
+
+
+high contrast:
+appearance > style: adwaita-dark
+appearance > icons: highcontrast
+appearance > fonts, noto sans 9->11, monospace 10->13, dpi: 110
+window manager> theme: numix, font 9 >11
+gedit: color scheme classic, font: monospace blod 13
+firefox: night mode pro plugin, dark theme, layout.css.devPixelsPerPx > 1.3
+pycharm > appearance: theme high contrast, font: noto sans regular 16
+pycharm > editor > font Dejavu sans Mono 17
 
